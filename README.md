@@ -1,11 +1,9 @@
 # PacBot
-Repository for the Harvard Undergraduate Robotics Club's PacBot team
+Repository for the Tufts Robotics Club's PacBot team. Forked from [Harvard URC's repository](https://github.com/HarvardURC/Pacbot/tree/master/src/gameEngine), and modified to update the Python version and include an Anaconda environment.
 
 > NOTE: Because this repository includes submodules, it should be cloned using `git clone --recursive`.
 
-The rules for PacBot and helpful images can be found at our website: https://harvardrobotics.com/pacbots
-
-Codebase for 2021-2022 can be found in the ***master*** branch. Codebases for past years can be found in their respective branches.
+The rules for PacBot and helpful images can be found at HURC's website: https://harvardrobotics.com/pacbots
 
 The current Pacman game code can be found in 'src/gameEngine'. The README there describes how to run the game.
 
