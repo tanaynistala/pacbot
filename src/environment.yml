@@ -12,8 +12,8 @@ dependencies:
   - openssl=3.0.0
   - pip=21.3.1
   - protobuf=3.19.1
-  - python=3.7.12
-  - python_abi=3.7
+  - python=3.8
+  - python_abi=3.8
   - readline=8.1
   - setuptools=58.5.3
   - six=1.16.0
