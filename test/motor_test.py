@@ -1,4 +1,4 @@
 from gpiozero import PhaseEnableMotor
 
-motor = PhaseEnableMotor(19, 26)
-motor.forward(1)
+motor = PhaseEnableMotor(35, 37)
+motor.forward()
